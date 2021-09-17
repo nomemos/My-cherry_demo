@@ -25,3 +25,7 @@ a:hover{
     background-color:palevioletred;
 
 }
+
+img {
+    max-width: 100%;
+}
