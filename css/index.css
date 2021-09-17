@@ -1,0 +1,27 @@
+#lista1 {
+    font-family:Arial;
+    font-weight:bold;
+    font: size 30px;
+}
+
+#lista1 li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:pink;
+    
+}
+
+a { color:rgb(90, 44, 59);
+    text-decoration: none;
+}
+ul { 
+    list-style: none;
+}
+
+a:hover{ 
+    background-color:palevioletred;
+
+}
