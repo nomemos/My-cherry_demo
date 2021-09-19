@@ -45,7 +45,7 @@ a:hover{
 
 .estilos img{
     border-radius: 8px;
-    transition: all 0.8 linear;
+    transition: all 0.4s linear;
 }
 .estilos img:hover{
     transform: scale(0.9);
