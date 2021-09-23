@@ -12,13 +12,18 @@
 
 h1 {
     color: aliceblue;
-    text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    font-size: 80px;
+   
+    padding: 1px 1px 1px 1px;
+    margin: 1px 1px 1px 1px;
 }
+
 #lista1 {
-    font-family:Arial;
+    font-family: 'Cabin', sans-serif;
     font-weight:bold;
-    font: size 30px;
+    font: size 50px;
 }
 
 #lista1 li{
@@ -27,7 +32,7 @@ h1 {
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color:pink;
+    
     
 }
 
@@ -63,3 +68,4 @@ img {
 h4{
     color: azure;
 }
+
